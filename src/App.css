@@ -24,6 +24,26 @@
   color: white;
 }
 
+.span{
+  color: aqua;
+}
+.list{
+  background-color:rgb(13, 99, 128);
+  padding:5px 60px;
+  margin: 1px;
+}
+.edit{
+  padding:2px 15px;
+  margin:0px 20px;
+}
+.input{
+  height: 50px;
+  width: 300px;
+}
+.add{
+  height: 50px;
+  width: 70px;
+}
 .App-link {
   color: #61dafb;
 }
