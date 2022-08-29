@@ -1,6 +1,7 @@
+#hosted link :https://talibkhan42.github.io/ToDoListT/
+
 # Getting Started with Create React App
-hosted link
-http://localhost:3000/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
